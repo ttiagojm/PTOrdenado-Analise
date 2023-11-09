@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+scikit-learn
+matplotlib
+python-dotenv
+praw
+beautifulsoup4
