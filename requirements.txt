@@ -5,3 +5,4 @@ matplotlib
 python-dotenv
 praw
 beautifulsoup4
+requests
