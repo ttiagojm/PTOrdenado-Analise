@@ -4,5 +4,6 @@ scikit-learn
 matplotlib
 python-dotenv
 praw
-beautifulsoup4
 requests
+seaborn
+scipy
